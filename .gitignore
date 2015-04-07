@@ -1,1 +1,9 @@
+
+# Build stuff
 .gradle
+build/
+
+# Eclipse stuff
+.classpath
+.project
+.settings/
