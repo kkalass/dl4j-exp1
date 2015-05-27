@@ -1,3 +1,4 @@
+logs/
 
 # Build stuff
 .gradle
@@ -7,3 +8,4 @@ build/
 .classpath
 .project
 .settings/
+/bin/
